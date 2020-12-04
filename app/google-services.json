@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382597024641",
+    "firebase_url": "https://medicalpharm-baed1.firebaseio.com",
+    "project_id": "medicalpharm-baed1",
+    "storage_bucket": "medicalpharm-baed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382597024641:android:9f10fa9a20de14dbdd7680",
+        "android_client_info": {
+          "package_name": "com.example.medpharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382597024641-habjpncf7ju04h0fj8l0g2qsr11uivhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMTDGgN2dcvSvs81gb1Yt5ErOfIvZjdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382597024641-habjpncf7ju04h0fj8l0g2qsr11uivhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
